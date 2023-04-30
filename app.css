@@ -1,0 +1,35 @@
+* {
+      margin: 0;
+      padding: 0;
+    }
+
+#background {
+  display: flex;
+
+  background-color: rgb(189, 189, 64);
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+  padding: 10px;
+  margin: auto;
+}
+
+#editor {
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#preview {
+  background-color: aquamarine;
+  color: black;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: justify;
+}
+
+pre, code {
+  background-color: white;
+  padding: 5px;
+}
