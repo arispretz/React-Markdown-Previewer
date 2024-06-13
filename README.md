@@ -1,6 +1,6 @@
 # React-Markdown-Previewer
 
-This is one of my projects in the way to achieve "Front End Development Libraries" certification at freeCodeCamp.org.
+This is one of my projects in the way to achieve "Front End Development Libraries" certification at freeCodeCamp.org. In this project I used React and Bootstrap to enhance its view.
 User Story #1: I can see a textarea element with a corresponding id="editor".
 
 User Story #2: I can see an element with a corresponding id="preview".
