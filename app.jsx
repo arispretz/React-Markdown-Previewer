@@ -1,6 +1,6 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.css';
-import './App.css';
+import './styles/styles.css';
 import { marked } from 'marked';
 import Prism from 'prismjs';
 import DOMPurify from 'isomorphic-dompurify';
@@ -124,6 +124,5 @@ const handleChange = (event) => {
  </div>
  );
 }
-
 
 export default App;
